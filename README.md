@@ -1,2 +1,1 @@
-# sms.py
-sms boomber
+python boomber
